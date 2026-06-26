@@ -53,3 +53,22 @@ img.author__avatar {
   border-radius: 0;
   object-fit: contain;
 }
+
+@media screen and (min-width: 1024px) {
+  .home-page #main .sidebar {
+    width: min(360px, 30vw);
+    max-width: 360px;
+  }
+
+  .home-page #main .page {
+    float: right;
+    width: calc(100% - min(360px, 30vw) - 3rem);
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .home-page #main .author__avatar img,
+  .home-page #main img.author__avatar {
+    max-width: min(350px, 100%);
+  }
+}
