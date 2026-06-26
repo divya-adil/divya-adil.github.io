@@ -9,4 +9,4 @@ venue: "npj Science of Food"
 citation: "St. Pierre, S.R., Darwin, E.C., Adil, D. et al. (2024). &quot;The mechanical and sensory signature of plant-based and animal meat.&quot; <i>npj Science of Food</i> 8, 94."
 ---
 
-This publication reports mechanical and sensory characterization of plant-based and animal meat products.
+<!-- This publication reports mechanical and sensory characterization of plant-based and animal meat products. -->
