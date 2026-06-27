@@ -3,6 +3,7 @@ title: "Mechanical testing of real and artificial meat"
 excerpt: "Experimental characterization of real and plant-based meat products under tension, compression, and shear."
 collection: portfolio
 date: 2023-10-01
+display_date: "2023"
 header:
   teaser: Meat_paper.jpg
 ---

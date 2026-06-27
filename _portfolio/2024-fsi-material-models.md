@@ -3,6 +3,7 @@ title: "Integrating constitutive models into cardiovascular FSI simulations"
 excerpt: "A flexible framework for adding newly discovered hyperelastic material models to cardiovascular fluid-structure interaction simulations."
 collection: portfolio
 date: 2024-04-01
+display_date: "2024-2025"
 # header:
 #   teaser: your-project-image.png
 ---

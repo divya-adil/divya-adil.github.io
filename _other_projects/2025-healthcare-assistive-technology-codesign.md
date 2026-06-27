@@ -3,6 +3,7 @@ title: "Co-design for healthcare and assistive technology"
 excerpt: "Rapid co-design work with a person with lower-limb disability, including a project selected as most innovative."
 collection: other_projects
 date: 2025-01-01
+display_date: "2025-2026"
 # header:
 #   teaser: your-project-image.png
 ---
