@@ -2,6 +2,8 @@
 title: "Growth-driven deformation of ultra-soft tissues"
 excerpt: "Continuum mechanics model of morphogenesis and growth-driven buckling in ultra-soft tissue."
 collection: portfolio
+date: 2022-05-01
+# thesisurl: /files/masters-thesis.pdf
 # header:
 #   teaser: your-project-image.png
 ---

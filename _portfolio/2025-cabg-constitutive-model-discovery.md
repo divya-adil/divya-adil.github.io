@@ -2,6 +2,7 @@
 title: "Constitutive model discovery for coronary artery bypass grafts"
 excerpt: "Data-driven constitutive model discovery for veins and vein grafts using inflation-biaxial testing data."
 collection: portfolio
+date: 2025-06-01
 # header:
 #   teaser: your-project-image.png
 ---

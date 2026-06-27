@@ -86,7 +86,40 @@
 
 .archive__item--no-link:hover {
   .archive__item-title {
-    text-decoration: none;
+    text-decoration: none !important;
+  }
+}
+
+.archive__item--no-link {
+  .archive__item-title {
+    color: var(--global-text-color);
+    cursor: default;
+    text-decoration: none !important;
+  }
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  align-items: start;
+
+  .grid__item {
+    float: none !important;
+    clear: none !important;
+    width: auto !important;
+    margin: 0 !important;
+  }
+
+  .archive__item-teaser {
+    aspect-ratio: 16 / 9;
+    max-height: none !important;
+  }
+
+  .archive__item-teaser img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 }
 

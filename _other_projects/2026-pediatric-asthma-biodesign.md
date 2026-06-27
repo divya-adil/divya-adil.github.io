@@ -2,6 +2,7 @@
 title: "Design for medication adherence in pediatric asthma"
 excerpt: "Need-driven healthcare design project focused on pediatric asthma medication adherence."
 collection: other_projects
+date: 2026-01-01
 # header:
 #   teaser: your-project-image.png
 ---

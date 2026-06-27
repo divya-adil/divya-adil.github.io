@@ -50,6 +50,30 @@
 
 .page__content {
 
+  figure.site-figure {
+    display: block;
+    margin: 2em 0;
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: 720px;
+      height: auto;
+      margin: 0 auto 0.75em;
+      border-radius: $border-radius;
+    }
+
+    figcaption {
+      max-width: 720px;
+      margin: 0 auto;
+      color: var(--global-text-color-light);
+      font-family: $global-font-family;
+      font-size: $type-size-6;
+      line-height: 1.5;
+      text-align: center;
+    }
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);

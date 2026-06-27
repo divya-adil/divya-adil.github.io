@@ -2,8 +2,10 @@
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
+{% elsif include.type == "grid" %}
   {% assign teaser = site.teaser %}
+{% else %}
+  {% assign teaser = nil %}
 {% endif %}
 
 {% if post.id %}
@@ -14,7 +16,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item{% if include.no_link %} archive__item--no-link{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
+    {% if teaser %}
       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
