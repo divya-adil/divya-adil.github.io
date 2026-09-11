@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Flexible framework to integrate new hyperelastic material models in cardiovascular fluid-structure interaction simulations<br />11th Summer School on Physics-Informed Modeling, Simulation and Experiments with Emphasis on the Cardiovascular System; Graz, Austria",
+    47.0708678,
+    15.4382786
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Constitutive Modeling of Veins and Vein Grafts Using Constitutive Artificial Neural Networks<br />WCB; Vancouver, CA",
+    49.2608724,
+    -123.113952
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Integrating material models discovered by constitutive artificial neural networks in cardiovascular simulations<br />USNCCM; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ]
 ];
