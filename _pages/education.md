@@ -25,6 +25,7 @@ August 2018 - July 2023
 CPI: 9.1/10
 
 **Master of Technology, Mechanical Engineering**  
+Specialization: Solid Mechanics and Design  
 Advisor: Prof. Sumit Basu
 
 **Bachelor of Technology, Biological Sciences and Bioengineering**

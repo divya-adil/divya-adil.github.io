@@ -26,8 +26,9 @@ main:
   - title: "Other Projects"
     url: /other-projects/
     
-  - title: "CV"
-    url: /cv/
+# Hidden while CV/resume are being updated. Uncomment to restore the tab.
+#  - title: "CV"
+#    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
